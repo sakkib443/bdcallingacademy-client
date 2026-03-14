@@ -1,0 +1,13 @@
+{
+    "masterAdmin": {
+        "id": "bac-admin-001",
+        "email": "admin@bdcallingacademy.com",
+        "firstName": "Super",
+        "lastName": "Admin",
+        "phoneNumber": "+8801700000000",
+        "password": "Admin@123456",
+        "role": "admin",
+        "status": "active"
+    },
+    "note": "🔑"
+}
